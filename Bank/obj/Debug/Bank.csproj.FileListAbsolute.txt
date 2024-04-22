@@ -1,0 +1,15 @@
+E:\Bank\Bank\bin\Debug\Bank.exe.config
+E:\Bank\Bank\bin\Debug\Bank.exe
+E:\Bank\Bank\bin\Debug\Bank.pdb
+E:\Bank\Bank\obj\Debug\Bank.csproj.AssemblyReference.cache
+E:\Bank\Bank\obj\Debug\Bank.csproj.SuggestedBindingRedirects.cache
+E:\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+E:\Bank\Bank\obj\Debug\Bank.exe
+E:\Bank\Bank\obj\Debug\Bank.pdb
+D:\Bank\Bank\bin\Debug\Bank.exe.config
+D:\Bank\Bank\bin\Debug\Bank.exe
+D:\Bank\Bank\bin\Debug\Bank.pdb
+D:\Bank\Bank\obj\Debug\Bank.csproj.AssemblyReference.cache
+D:\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+D:\Bank\Bank\obj\Debug\Bank.exe
+D:\Bank\Bank\obj\Debug\Bank.pdb
